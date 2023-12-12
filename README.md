@@ -1,5 +1,4 @@
-- 👋 Welcome to my profile!
-- 👀 I’m interested in computational approaches to research questions in economic growth.
+- Interests: Computational approaches to questions in economics or economic development.
 - 📫 Reach me at shreyas_gadgin_matha[at]hks[dot]harvard[dot]edu
 
 <!---
